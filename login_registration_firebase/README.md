@@ -1,4 +1,4 @@
-# login_registration_firebase
+# login_registration
 
 A new Flutter project.
 
